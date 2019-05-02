@@ -27,6 +27,7 @@ funcsigs==0.4
 functools32==3.2.3.post2
 geographiclib==1.49
 geopy==1.19.0
+gunicorn==19.9.0
 html5lib==0.999
 httplib2==0.9.1
 idna==2.0
